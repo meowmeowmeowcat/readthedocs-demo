@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Read the Docs Template 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-30 19:33+0800\n"
-"PO-Revision-Date: 2021-06-30 20:43+0800\n"
+"PO-Revision-Date: 2021-06-30 21:00+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -41,7 +41,7 @@ msgstr "内容："
 
 #: ../docs/index.rst:20
 msgid "Indices and tables"
-msgstr ""
+msgstr "索引和表格"
 
 #: ../docs/index.rst:22
 msgid ":ref:`genindex`"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: ../README.rst:20 ../docs/installation.rst:3
 msgid "Installation"
-msgstr ""
+msgstr "安装"
 
 #: ../docs/installation.rst:5
 msgid "Install the package with pip::"
